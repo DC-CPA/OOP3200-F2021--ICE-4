@@ -1,3 +1,13 @@
+/**
+ * Project OOP3200-F2021-ICE3
+ * @author Katherine Bellman
+ * @Student number: 100325825
+ * @Course: OOP 3200
+ *
+ * @Date: Octorber 6th 2021
+ * @version 1.0
+ */
+
 #include "Vector2D.h"
 
 #include <iomanip>

@@ -60,7 +60,7 @@ void GameObject::SetPosition(const Vector2D& new_position)
 std::string GameObject::ToString() const
 {
 	std::string output_string;
-	output_string += "ID		:"	+ std::to_string(GetID());
-	output_string += "Position	:" + GetPosition().ToString();
+	output_string += "ID		:"	+ std::to_string(GetID()) + "\n";
+	output_string += "Position	:" + GetPosition().ToString() + "\n";
 	return output_string;
 }

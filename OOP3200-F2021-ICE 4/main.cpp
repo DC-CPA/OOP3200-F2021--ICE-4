@@ -15,7 +15,7 @@
 #include "GameObject.h"
 #include "Vector2D.h"
 
- static void BuildGameObjects(std::vector<GameObject*>& game_objects,const int num = 2)
+ static void BuildGameObjects(std::vector<GameObject*>& game_objects,const int num = 1)
  {
 	for (auto count = 0; count < num; ++count)
 	{

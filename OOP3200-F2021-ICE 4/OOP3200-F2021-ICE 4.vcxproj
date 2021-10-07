@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{7328590a-aca6-4807-a414-5474766ab905}</ProjectGuid>
-    <RootNamespace>OOP3200F2020Lesson3c</RootNamespace>
+    <RootNamespace>OOP3200-F2021-ICE 4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>OOP3200-F2021-ICE 4</ProjectName>
   </PropertyGroup>
